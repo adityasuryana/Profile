@@ -40,17 +40,17 @@
 
 @font-face {
     font-family: 'cocogoose regular';
-    src: url('font/cocogoose-regular.ttf');
+    src: url('../font/cocogoose-regular.ttf');
 }
 
 @font-face {
     font-family: 'cocogoose light';
-    src: url('font/cocogoose-light.ttf');
+    src: url('../font/cocogoose-light.ttf');
 }
 
 @font-face {
     font-family: 'poppins';
-    src: url('font/poppins-regular.ttf');
+    src: url('../font/poppins-regular.ttf');
 }
 
 
