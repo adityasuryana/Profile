@@ -7173,6 +7173,10 @@ textarea.form-control-lg {
   color: #212529 !important;
 }
 
+.text-yellow {
+  color: #E9D148 !important;
+}
+
 .text-white {
   color: #fff !important;
 }
@@ -10817,6 +10821,17 @@ textarea.form-control-lg {
   color: #E9D148;
   border-radius: 60px 20px 60px 20px;
   box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+}
+
+.btn-contact-h {
+  background-color: white;
+  border-radius: 60px 20px 60px 20px;
+  color: #2D2D2D;
+}
+
+.btn-contact-h:hover {
+  background-color: #E9D148;
+  color: #2D2D2D;
 }
 
 .hide {
