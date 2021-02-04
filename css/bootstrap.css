@@ -10796,6 +10796,16 @@ textarea.form-control-lg {
   border-radius: 60px 15px 60px 15px;
 }
 
+.btn-dl {
+  background-color: #E9D148;
+  color: #2D2D2D;
+}
+
+.btn-dl:hover {
+  background-color: white;
+  color: #2D2D2D;
+}
+
 .btn-ct {
   background-color: white;
   border-radius: 60px 20px 60px 20px;
