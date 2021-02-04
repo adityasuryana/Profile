@@ -10830,3 +10830,14 @@ textarea.form-control-lg {
 .icon:hover {
   opacity: 1;
 }
+
+.link-work {
+  color: #212529;
+  text-decoration: none;
+  outline: none;
+}
+
+.link-work:hover {
+  color: #212529;
+  text-decoration: underline;
+}
